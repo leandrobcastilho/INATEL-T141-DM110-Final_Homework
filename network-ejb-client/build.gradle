@@ -1,0 +1,5 @@
+//network-ejb-client
+
+dependencies {   
+	compile project(':network-api')
+} 

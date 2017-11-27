@@ -1,0 +1,8 @@
+//network-war
+apply plugin: 'war'
+
+jar.enabled = false 
+
+dependencies {   
+	compile project(':network-impl')
+} 

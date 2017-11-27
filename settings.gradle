@@ -1,0 +1,2 @@
+//network
+include "network-ear", "network-war", "network-api", "network-impl", "network-ejb", "network-ejb-client"

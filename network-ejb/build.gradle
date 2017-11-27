@@ -1,0 +1,7 @@
+//network-ejb
+
+dependencies {   
+
+	compile project(':network-ejb-client')
+
+} 

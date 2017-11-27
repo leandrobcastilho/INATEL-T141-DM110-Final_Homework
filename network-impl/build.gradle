@@ -1,0 +1,7 @@
+//network-impl
+
+dependencies {   
+	compile project(':network-api')
+	compile project(':network-ejb-client')
+	compile group: 'commons-net', name: 'commons-net', version: '3.6'
+} 
